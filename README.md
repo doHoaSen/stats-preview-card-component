@@ -33,9 +33,7 @@ Users should be able to:
 </center>
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://dohoasen.github.io/stats-preview-card-component/)
 
 
 
@@ -90,7 +88,7 @@ I need to improve CSS codes and make them shorter and reusable.
 
 ## Author
 
-- Website - [Amelia Kang](https://www.your-site.com)
+- Website - [Amelia Kang](.)
 - Frontend Mentor - [@doHoaSen]
 (https://www.frontendmentor.io/profile/doHoaSen)
 
